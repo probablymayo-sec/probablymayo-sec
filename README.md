@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Python</b>
-  - [Password Strength Checker](https://github.com/probablymayo-sec/projecturl)
+  - [Password Strength Checker](https://github.com/probablymayo-sec/Password-Strength-Checker)
   - [Phishing Link Scanner](https://github.com/probablymayo-sec/projecturl)
   - [File Integrity Checker](https://github.com/probablymayo-sec/projecturl)
   - [Password Generator](https://github.com/probablymayo-sec/projecturl)
