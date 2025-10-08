@@ -1,6 +1,6 @@
 <h1>Hi, I'm Anthony!</h1>
 
-Mostly cybersecurity projects, plus some utility scripts and miscellaneous homelab notes
+Mostly cybersecurity projects & homelab notes, plus some utility scripts and miscellaneous
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
