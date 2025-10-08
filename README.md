@@ -6,7 +6,7 @@ Mostly cybersecurity projects & homelab notes, plus some utility scripts and mis
 
 - <b>Python</b>
   - [Password Strength Checker](https://github.com/probablymayo-sec/Password-Strength-Checker)
-  - [Phishing Link Scanner](https://github.com/probablymayo-sec/projecturl)
+  - [Phishing Link Scanner](https://github.com/probablymayo-sec/projecturl) (in progress)
   - [File Integrity Checker](https://github.com/probablymayo-sec/projecturl)
   - [Password Generator](https://github.com/probablymayo-sec/projecturl)
     
