@@ -1,5 +1,7 @@
 <h1>Hi, I'm Anthony!</h1>
 
+Mostly cybersecurity projects, plus some utility scripts and miscellaneous homelab notes
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Python</b>
@@ -7,7 +9,6 @@
   - [Phishing Link Scanner](https://github.com/probablymayo-sec/projecturl)
   - [File Integrity Checker](https://github.com/probablymayo-sec/projecturl)
   - [Password Generator](https://github.com/probablymayo-sec/projecturl)
-
     
 - <b>Bash</b>
   - [Find AD Description Matches](https://github.com/probablymayo-sec/projecturl)
@@ -20,7 +21,7 @@
   - [Disk Sanitation / DWipe Utlity](https://github.com/probablymayo-sec/projecturl)
   - [Process & App Installation Monitor](https://github.com/probablymayo-sec/projecturl)
 
-- <b>Labs</b>
+- <b>Lab</b>
   - [Home Lab](https://github.com/probablymayo-sec/projecturl)
 
 <h2> 📄 Certifications:</h2>
