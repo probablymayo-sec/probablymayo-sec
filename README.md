@@ -5,7 +5,7 @@ This is where I toss some of my cybersecurity projects & exercises done in my ho
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Home Lab</b>
-  - [Lab Setup](https://github.com/probablymayo-sec/projecturl)
+  - [Lab Setup](https://github.com/probablymayo-sec/Home-Lab-Setup)
 
 - <b>Labs & Exercises</b>
   - [DLL-Hijacking](https://github.com/probablymayo-sec/DLL-Hijacking)
