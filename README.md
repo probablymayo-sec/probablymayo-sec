@@ -1,28 +1,33 @@
 <h1>Hi, I'm Anthony!</h1>
 
-Mostly cybersecurity projects & homelab notes, plus some utility scripts and miscellaneous
+This is where I toss some of my cybersecurity projects & exercises done in my homelab, plus some utility scripts and miscellaneous. 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
+
+- <b>Home Lab</b>
+  - [Lab Setup](https://github.com/probablymayo-sec/projecturl)
+
+- <b>Labs & Exercises</b>
+  - [DLL-Hijacking](https://github.com/probablymayo-sec/DLL-Hijacking)
+  - [Unmanaged Powershell/C-Sharp Injection](https://github.com/probablymayo-sec/unmanaged-powershell-execution)
+  - [Tryhackme: Blue](https://github.com/probablymayo-sec/tryhackme-blue-walkthrough)
 
 - <b>Python</b>
   - [Password Strength Checker](https://github.com/probablymayo-sec/Password-Strength-Checker)
-  - [Phishing Link Scanner](https://github.com/probablymayo-sec/projecturl) (in progress)
-  - [File Integrity Checker](https://github.com/probablymayo-sec/projecturl)
+  - [Domain Scanner](https://github.com/probablymayo-sec/projecturl) (in progress)
   - [Password Generator](https://github.com/probablymayo-sec/projecturl)
     
 - <b>Bash</b>
-  - [Find AD Description Matches](https://github.com/probablymayo-sec/projecturl)
-  - [Proxmox VMID-range Shutdown](https://github.com/probablymayo-sec/projecturl)
-  - [Linux Host Enumeration](https://github.com/probablymayo-sec/projecturl)
-  - [Directory Search](https://github.com/probablymayo-sec/projecturl)
-  - [VM Spice Protocol Configuration](https://github.com/probablymayo-sec/projecturl)
-  
-- <b>PowerShell</b>
-  - [Disk Sanitation / DWipe Utlity](https://github.com/probablymayo-sec/projecturl)
-  - [Process & App Installation Monitor](https://github.com/probablymayo-sec/projecturl)
+  - [Find AD Description Matches]()
+  - [Configure Tailscale on Proxmox LXC container]()
+  - [Linux Host Enumeration]()
+  - [Directory Search]()
+  - [VM Spice Protocol Configuration]()
 
-- <b>Lab</b>
-  - [Home Lab](https://github.com/probablymayo-sec/projecturl)
+- <b>Miscellaneous</b>
+  - [pip-installation-tutorial](https://github.com/probablymayo-sec/pip-installation-tutorial)
+      - Couldn't find any straightforward tutorials online to install python "pip" package manager and adding it to PATH, so hopefully someone finds this helpful
+
 
 <h2> 📄 Certifications:</h2>
 
