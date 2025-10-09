@@ -18,11 +18,9 @@ This is where I toss some of my cybersecurity projects & exercises done in my ho
   - [Password Generator](https://github.com/probablymayo-sec/projecturl)
     
 - <b>Bash</b>
-  - [Find AD Description Matches]()
-  - [Configure Tailscale on Proxmox LXC container]()
-  - [Linux Host Enumeration]()
-  - [Directory Search]()
-  - [VM Spice Protocol Configuration]()
+  - [Configure Tailscale on Proxmox LXC container](https://github.com/probablymayo-sec/LXC-Tailscale-Configuration)
+  - [Linux Host Enumeration]() (in progress)
+  - [VM Spice Protocol Configuration](https://github.com/probablymayo-sec/proxmox-vmid-spice-configuration)
 
 - <b>Miscellaneous</b>
   - [pip-installation-tutorial](https://github.com/probablymayo-sec/pip-installation-tutorial)
