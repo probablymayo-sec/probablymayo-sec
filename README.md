@@ -15,6 +15,7 @@ This is where I toss some of my cybersecurity projects & exercises done in my ho
 - <b>Python</b>
   - [Password Strength Checker](https://github.com/probablymayo-sec/Password-Strength-Checker)
   - [Password Generator](https://github.com/probablymayo-sec/Password-Generator)
+  - [JohnTheRipper Rule Generator](https://github.com/probablymayo-sec/John_Rule-Generation-Utility)
     
 - <b>Bash</b>
   - [Configure Tailscale on Proxmox LXC container](https://github.com/probablymayo-sec/LXC-Tailscale-Configuration)
