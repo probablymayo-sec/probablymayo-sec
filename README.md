@@ -24,7 +24,7 @@ This is where I toss some of my cybersecurity projects & exercises done in my ho
   - [Reverse Shell Launcher](https://github.com/probablymayo-sec/Reverse-Shell_Launcher)
 
 - <b>Miscellaneous</b>
-  - [pip-installation-tutorial](https://github.com/probablymayo-sec/pip-installation-tutorial)
+  - [Windows-pip-Installation-Tutorial](https://github.com/probablymayo-sec/pip-installation-tutorial)
       - Couldn't find any straightforward tutorials online to install python "pip" package manager and adding it to PATH, so hopefully someone finds this helpful
 
 
