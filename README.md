@@ -23,6 +23,7 @@ This is where I toss some of my cybersecurity projects & exercises done in my ho
   - [VM Spice Protocol Configuration](https://github.com/probablymayo-sec/proxmox-vmid-spice-configuration)
   - [Reverse Shell Launcher](https://github.com/probablymayo-sec/Reverse-Shell_Launcher)
   - [Create New Local User](https://github.com/probablymayo-sec/Linux_User_Creation_Script/tree/main)
+  - [Weekly Update Script](https://github.com/probablymayo-sec/Linux_Update_Script)
 
 - <b>Miscellaneous</b>
   - [Windows-pip-Installation-Tutorial](https://github.com/probablymayo-sec/pip-installation-tutorial)
