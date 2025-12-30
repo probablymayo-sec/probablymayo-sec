@@ -45,7 +45,8 @@ This is where I toss some of my cybersecurity projects & exercises done in my ho
 <h2>Proof I Don’t Just Click “Next”</h2>
 
 TryHackMe: 
-- <img src="https://tryhackme-badges.s3.amazonaws.com/ADcphersec.png" alt="Your Image Badge" />
+- <img width="329" height="88" alt="image" src="https://github.com/user-attachments/assets/0e16f782-c026-4d1a-9081-16540b9c28e9" />
+
 
 [HackTheBox Transcript (PDF)](./docs/HTB-Transcript.pdf)
 
