@@ -42,18 +42,6 @@ This is where I toss some of my cybersecurity projects & exercises done in my ho
   - TryHackMe Junior Penetration Tester (PT1)
   - Cisco Certified Network Associate (CCNA)
 
-<h2>Proof I Don’t Just Click “Next”</h2>
-
-TryHackMe: 
-- <img width="329" height="88" alt="image" src="https://github.com/user-attachments/assets/0e16f782-c026-4d1a-9081-16540b9c28e9" />
-
-
-[HackTheBox Transcript (PDF)](./docs/HTB-Transcript.pdf)
-
-[OvertheWire Wargames (Bandit)](./docs/OTWBandit-Transcript.pdf)
-
-[PicoCTF](./docs/PicoCTF-Transcript.pdf)
-
 <h2> 📺  Connect with me:</h2>
 
 [<img align="left" alt="Mayo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
