@@ -18,7 +18,6 @@ This is where I toss some of my cybersecurity projects & exercises done in my ho
   - [JohnTheRipper Rule Generator](https://github.com/probablymayo-sec/John_Rule-Generation-Utility)
     
 - <b>Bash</b>
-  - [Configure Tailscale on Proxmox LXC container](https://github.com/probablymayo-sec/LXC-Tailscale-Configuration)
   - [Linux Host Enumeration](https://github.com/probablymayo-sec/Linux-Host_Enumeration/tree/main)
   - [VM Spice Protocol Configuration](https://github.com/probablymayo-sec/proxmox-vmid-spice-configuration)
   - [Reverse Shell Launcher](https://github.com/probablymayo-sec/Reverse-Shell_Launcher)
