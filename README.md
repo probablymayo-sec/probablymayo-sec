@@ -28,19 +28,6 @@ This is where I toss some of my cybersecurity projects & exercises done in my ho
   - [Windows-pip-Installation-Tutorial](https://github.com/probablymayo-sec/pip-installation-tutorial)
       - Couldn't find any straightforward tutorials online to install python "pip" package manager and adding it to PATH, so hopefully someone finds this helpful
 
-
-<h2> 📄 Certifications:</h2>
-
-<b>Current</b>
-  - CompTIA Security+
-  - CompTIA Network+
-  - Google Cybersecurity Certificate
-
-<b>In Progress</b>
-  - HackTheBox Certified Defensive Security Analyst (CDSA)
-  - TryHackMe Junior Penetration Tester (PT1)
-  - Cisco Certified Network Associate (CCNA)
-
 <h2> 📺  Connect with me:</h2>
 
 [<img align="left" alt="Mayo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
