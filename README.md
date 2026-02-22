@@ -7,11 +7,6 @@ This is where I toss some of my cybersecurity projects & exercises done in my ho
 - <b>Home Lab</b>
   - [Lab Setup](https://github.com/probablymayo-sec/Home-Lab-Setup)
 
-- <b>Labs & Exercises</b>
-  - [DLL-Hijacking](https://github.com/probablymayo-sec/DLL-Hijacking)
-  - [Unmanaged Powershell/C-Sharp Injection](https://github.com/probablymayo-sec/unmanaged-powershell-execution)
-  - [Tryhackme: Blue](https://github.com/probablymayo-sec/tryhackme-blue-walkthrough)
-
 - <b>Python</b>
   - [Password Strength Checker](https://github.com/probablymayo-sec/Password-Strength-Checker)
   - [Password Generator](https://github.com/probablymayo-sec/Password-Generator)
